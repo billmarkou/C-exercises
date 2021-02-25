@@ -1,0 +1,441 @@
+# depslib dependency file v1.0
+1591383486 source:/home/bill/Desktop/askisi4/askisi4/aplication.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"creator.h"
+	"aplication.h"
+	"rating.h"
+
+1591380245 
+
+1591217209 /home/bill/Desktop/askisi4/askisi4/creator.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+
+1591396563 /home/bill/Desktop/askisi4/askisi4/aplication.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+
+1591370061 "
+
+1591217339 /home/bill/Desktop/askisi4/askisi4/rating.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+
+1591380245 source:/home/bill/Desktop/askisi4/askisi4/game.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+
+1591382756 /home/bill/Desktop/askisi4/askisi4/game.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+
+1591382764 n.h"
+
+1591374862 source:/home/bill/Desktop/askisi4/askisi4/officeAp.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"officeAp.h"
+
+1591374862 h"
+
+1591382764 /home/bill/Desktop/askisi4/askisi4/officeAp.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+
+1591269520 source:/home/bill/Desktop/askisi4/askisi4/rating.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+
+1591370061 source:/home/bill/Desktop/askisi4/askisi4/creator.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"creator.h"
+
+1591709785 source:/home/bill/Desktop/askisi4/askisi4/main.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"officeAp.h"
+	"game.h"
+	"apSystem.h"
+
+1591710699 source:/home/bill/Desktop/askisi4/askisi4/apSystem.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+	"officeAp.h"
+	"apSystem.h"
+
+1591709603 /home/bill/Desktop/askisi4/askisi4/apSystem.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	<list>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+	"officeAp.h"
+
+1591383486 source:c:\users\bill\desktop\askisi4\aplication.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"creator.h"
+	"aplication.h"
+	"rating.h"
+
+1591217209 c:\users\bill\desktop\askisi4\creator.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+
+1591396563 c:\users\bill\desktop\askisi4\aplication.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+
+1591217339 c:\users\bill\desktop\askisi4\rating.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+
+1591710699 source:c:\users\bill\desktop\askisi4\apsystem.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+	"officeAp.h"
+	"apSystem.h"
+
+1591382756 c:\users\bill\desktop\askisi4\game.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+
+1591382764 c:\users\bill\desktop\askisi4\officeap.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+
+1591709603 c:\users\bill\desktop\askisi4\apsystem.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	<list>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+	"officeAp.h"
+
+1591370061 source:c:\users\bill\desktop\askisi4\creator.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"creator.h"
+
+1591380245 source:c:\users\bill\desktop\askisi4\game.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+
+1591709785 source:c:\users\bill\desktop\askisi4\main.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"officeAp.h"
+	"game.h"
+	"apSystem.h"
+
+1591374862 source:c:\users\bill\desktop\askisi4\officeap.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"officeAp.h"
+
+1591269520 source:c:\users\bill\desktop\askisi4\rating.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+
+1591819801 source:/home/bill/Desktop/askisi4/aplication.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"creator.h"
+	"aplication.h"
+	"rating.h"
+
+1591217208 /home/bill/Desktop/askisi4/creator.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+
+1591745585 /home/bill/Desktop/askisi4/aplication.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+
+1591217338 /home/bill/Desktop/askisi4/rating.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+
+1591822081 source:/home/bill/Desktop/askisi4/apSystem.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	<fstream>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+	"officeAp.h"
+	"apSystem.h"
+
+1591744470 /home/bill/Desktop/askisi4/game.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+
+1591743987 /home/bill/Desktop/askisi4/officeAp.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+
+1591801465 /home/bill/Desktop/askisi4/apSystem.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	<list>
+	<fstream>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+	"officeAp.h"
+
+1591370060 source:/home/bill/Desktop/askisi4/creator.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"creator.h"
+
+1591744651 source:/home/bill/Desktop/askisi4/game.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"game.h"
+
+1591822081 source:/home/bill/Desktop/askisi4/main.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	<fstream>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"officeAp.h"
+	"game.h"
+	"apSystem.h"
+
+1591744650 source:/home/bill/Desktop/askisi4/officeAp.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+	"creator.h"
+	"aplication.h"
+	"officeAp.h"
+
+1591745021 source:/home/bill/Desktop/askisi4/rating.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<new>
+	<iostream>
+	<vector>
+	"rating.h"
+
